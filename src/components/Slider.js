@@ -117,12 +117,10 @@ class Slider extends Component {
     const {
       selection,
       scale,
-      format,
       handleLabelFormat,
       width,
       height,
       reset,
-      innerWidth,
       selectedColor,
       unselectedColor,
       sliderStyle,

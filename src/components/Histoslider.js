@@ -6,8 +6,6 @@ import { scaleLinear as linear } from "d3-scale";
 import Histogram from "./Histogram";
 import Slider from "./Slider";
 
-const SLIDER_HEIGHT = 30;
-
 class Histoslider extends Component {
   constructor() {
     super();
